@@ -1,4 +1,4 @@
-# python_patterns
+# Design patterns applied to Python
 implementation_of_different_design_patterns
 
 Here I show some implementation of different design patterns. The implementations are linked to the most useful ones in python because of its features as language.
